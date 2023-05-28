@@ -1,0 +1,14 @@
+[
+  {
+    "code": "+7",
+    "countryCode": "RU",
+    "countryName": "Russian Federation",
+    "phoneMask": "XXX XXX XXXX"
+  },
+  {
+    "code": "+7",
+    "countryCode": "KZ",
+    "countryName": "Kazakhstan",
+    "phoneMask": "XXX XXX XX XX"
+  }
+]

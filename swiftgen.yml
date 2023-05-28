@@ -1,0 +1,16 @@
+strings:
+- inputs: Localization/Sources/Localization/Resources/
+  outputs:
+    templateName: structured-swift5
+    output: Localization/Sources/Localization/Sources/Generated/Localizable.swift
+    params:
+        enumName: Localizable
+        publicAccess: true
+
+xcassets:
+  inputs: UI/Sources/UI/Resources/Assets.xcassets
+  outputs:
+    templateName: swift5
+    output: UI/Sources/UI/Sources/Generated/Assets.swift
+    params:
+        publicAccess: true
